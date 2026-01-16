@@ -146,17 +146,6 @@ entries:
     urls:
     - https://kweaver-ai.github.io/helm-repo/ecron-management-0.1.0.tgz
     version: 0.1.0
-  example:
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2026-01-16T11:06:00.0973404+08:00"
-    description: A Helm chart for Kubernetes
-    digest: 56e043e32d7953d969afc1592ab07186b541fd50a6ee64c0d877292262c2d9e9
-    name: example
-    type: application
-    urls:
-    - https://kweaver-ai.github.io/helm-repo/example-0.1.0.tgz
-    version: 0.1.0
   flow-audit-config:
   - apiVersion: v1
     appVersion: 0.1.0-9008ecc.1717504
